@@ -1,2 +1,2 @@
 # layout-challenge-blueprint
-https://wireframepro.mockflow.com/view/Dec6e10ca3c965025081516c40c23e78a/sidebar/off
+http://dedica.edumedia.ca/mtm6130/exercises/layout-challenge-html-structure/#/page/b27276a8085941418ff941fe4c5de290/sidebar/off
